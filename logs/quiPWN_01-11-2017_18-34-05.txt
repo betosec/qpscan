@@ -1,0 +1,4 @@
+Registros de archivos descargados de Quipux, solo guarda documentos encontrados
+
+
+[+] 1: dbbbad826413f565fef6c18416d4036c.pdf

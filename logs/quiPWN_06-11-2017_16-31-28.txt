@@ -1,0 +1,6 @@
+Registros de archivos descargados de Quipux, solo guarda documentos encontrados
+
+
+1: 1444b3cb8a08e8d97a011cd4d277e2c2.pdf
+2: 356ee230435f4eb352b36153a7f9b498.pdf
+3: 4edc217ad209481f3a1b2452a47e535c.pdf
