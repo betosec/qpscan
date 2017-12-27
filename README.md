@@ -4,4 +4,5 @@ QPScan es un script desarrollado en python que permite identificar archivos temp
 
 Uso
 
-python quipxPWN.py
+
+$ python quipxPWN.py
